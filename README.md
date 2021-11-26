@@ -6,3 +6,6 @@ function dev(name, age, work) {
       }
       let pauloCesarJr = new dev('Paulo Cesar Jr', 33, 'front-end and Game Developer');
       console.log(pauloCesarJr);
+
+### Sobre mim
+
