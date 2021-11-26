@@ -21,8 +21,11 @@ function dev(name, age, work) {
 <a><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="IMAGE ALT TEXT HERE" width="145" height="30" border="5" /></a>
         
 ### Ferramentas:
-<a><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="IMAGE ALT TEXT HERE" width="100" height="30" /></a> <a><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="IMAGE ALT TEXT HERE" width="100" height="30" /></a> <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="IMAGE ALT TEXT HERE" width="140" height="30" /></a>
+<a><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="IMAGE ALT TEXT HERE" width="100" height="30" /></a> <a><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="IMAGE ALT TEXT HERE" width="100" height="30" />
+<a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="IMAGE ALT TEXT HERE" width="150" height="30" /></a> <a><img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="IMAGE ALT TEXT HERE" width="140" height="30" /></a> <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="IMAGE ALT TEXT HERE" width="145" height="30" /></a>
 <a>        
+
+        
 ### Interesses:
 <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="IMAGE ALT TEXT HERE" width="70" height="30" border="5" /></a>
 <a><img src="https://camo.githubusercontent.com/2c2e4c4a550ceb8782f4e046e9be93322d7f0514aede39f897766943526dc145/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f6e61746976652d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374" alt="IMAGE ALT TEXT HERE" width="155" height="30" border="5" /></a>
@@ -32,6 +35,8 @@ function dev(name, age, work) {
 <a><img src="https://camo.githubusercontent.com/b4c43a7aaa3db6146c48f060847e74504b7921f244f8608f8a3c47c227bc63ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73" alt="IMAGE ALT TEXT HERE" width="115" height="30" border="5" /></a>
 <a><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="IMAGE ALT TEXT HERE" width="90" height="30" border="5" /></a>
 <a><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="IMAGE ALT TEXT HERE" width="90" height="30" border="5" /></a>
+<a><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="IMAGE ALT TEXT HERE" width="115" height="30" border="5" /></a>
+<a><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="IMAGE ALT TEXT HERE" width="115" height="30" border="5" /></a>
 
 ### Estudando no momento:
 <a><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="IMAGE ALT TEXT HERE" width="90" height="30" border="5" /></a>     <a><img src="https://camo.githubusercontent.com/987b14ac5ee8b7fced27fcd7a398624cad0a4a7bf6171c41dcc313e31a055e6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="IMAGE ALT TEXT HERE" width="155" height="30" border="5" /></a> 
