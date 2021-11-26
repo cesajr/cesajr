@@ -9,8 +9,8 @@ function dev(name, age, work) {
       console.log(pauloCesarJr);
 ```
 ### Sobre mim:
-Microsoft Certified Educator | Programador de Jogos | Mestre em Antropologia Social | Bacharel em Administração | Especialista em Marketing Digital.
-Desejo construir uma rede de contatos colaborativos e profissionais, para desenvolver projetos criativos, inovadores e relevantes para a sociedade.
+<dd>Microsoft Certified Educator | Programador de Jogos | Mestre em Antropologia Social | Bacharel em Administração | Especialista em Marketing Digital.</dd>
+<dd>Desejo construir uma rede de contatos colaborativos e profissionais, para desenvolver projetos criativos, inovadores e relevantes para a sociedade.</dd>
 
 ### Principais Skills:
 
