@@ -5,7 +5,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let pauloCesarJr = new dev('Paulo Cesar Jr', 33, 'front-end and Game Developer');
+      let pauloCesarJr = new dev('Paulo Cesar Jr', 36, 'front-end and Game Developer');
       console.log(pauloCesarJr);
 ```
 ### Sobre mim:
